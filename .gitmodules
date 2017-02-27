@@ -1,0 +1,3 @@
+[submodule "americancoin"]
+	path = americancoin
+	url = https://github.com/americancoinfoundation/americancoin.git

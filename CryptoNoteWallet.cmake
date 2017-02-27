@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "American-Coin")
+set(CN_CURRENCY_DISPLAY_NAME "AmericanCoin")
+set(CN_CURRENCY_TICKER "AMC")
